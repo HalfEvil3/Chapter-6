@@ -93,13 +93,15 @@ table tfoot td#next {
 .hoverNode{
 background-color:#FFFFCC;
 border: solid 1px black;
-width:100px;
-height:100px;
+width: auto;
+height:20px;
 position:realtive;
 float:top;
 font-size:10pt;
 margin:5px;
 padding:3px;
 color:black;
+text-align:center;
+display:inline-block;
 }
 
